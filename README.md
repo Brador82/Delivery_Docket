@@ -6,7 +6,7 @@
 **UI Toolkit:** Jetpack Compose (Material 3)  
 **Architecture:** MVVM + Clean Architecture  
 **Core Philosophy:** Offline-First • High-Speed • Business-Critical  
-**Theme:** Monokai Dimmed (Dark Mode Only)
+**Theme:** Monokai Dimmed (Dark Mode Only - will add themed UI options at a later date).
 
 ---
 
