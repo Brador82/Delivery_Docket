@@ -1,4 +1,4 @@
-# Delivery_Docket[README.md.md](https://github.com/user-attachments/files/24050473/README.md.md)
+# Delivery_Docket
 # Daily Docket – Technical Specification & Architecture Document
 
 **Platform:** Native Android  
